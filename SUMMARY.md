@@ -8,6 +8,8 @@
 * [/claim](commands/claim.md)
 * [/qr](commands/qr.md)
 * [/lineup](commands/lineup.md)
+* [/top](commands/top.md)
+* [/swap axie](commands/swap-axie.md)
 
 ## 😍 Loyalty Bonus
 

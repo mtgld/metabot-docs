@@ -10,9 +10,9 @@ To use the command you need to type `/status` in the text box and select the com
 
 You can type `/status` in Discord channel to show your account info.
 
-![/statusresponse](<../.gitbook/assets/image (3).png>)
+![/statusresponse](<../.gitbook/assets/image (5).png>)
 
 `/status target:@your tag` shows full account information.
 
-![/status target:@tagresponse](<../.gitbook/assets/image (6).png>)
+![/status target:@tagresponse](<../.gitbook/assets/image (8).png>)
 

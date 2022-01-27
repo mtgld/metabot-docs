@@ -4,11 +4,11 @@
 
 ## 🗣 Commands
 
+* [/scholarship application](commands/scholarship-application.md)
 * [/status](commands/status.md)
 * [/claim](commands/claim.md)
 * [/qr](commands/qr.md)
 * [/lineup](commands/lineup.md)
-* [/scholarship application](commands/scholarship-application.md)
 * [/top](commands/top.md)
 * [/swap axie](commands/swap-axie.md)
 

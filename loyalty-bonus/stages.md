@@ -12,7 +12,7 @@ Playing for Metaguild for a longer time increases your SLP rewards share in Axie
 |   1   |       30      |        55%        |
 |   2   |       75      |        60%        |
 |   3   |      150      |        65%        |
-|   4   |      300      |        70%        |
+|   4   |      300      |        69%        |
 
 Your stage and share according to it is shown in `/status` bar.                         &#x20;
 

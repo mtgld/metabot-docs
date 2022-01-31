@@ -5,12 +5,15 @@
 ## 🗣 Commands
 
 * [/scholarship application](commands/scholarship-application.md)
-* [/status](commands/status.md)
-* [/claim](commands/claim.md)
-* [/qr](commands/qr.md)
-* [/lineup](commands/lineup.md)
-* [/top](commands/top.md)
-* [/swap axie](commands/swap-axie.md)
+* [Player Commands](commands/player-commands/README.md)
+  * [/status](commands/player-commands/status.md)
+  * [/claim](commands/player-commands/claim.md)
+  * [/qr](commands/player-commands/qr.md)
+  * [/lineup](commands/player-commands/lineup.md)
+  * [/top](commands/player-commands/top.md)
+  * [/swap axie](commands/player-commands/swap-axie.md)
+* [Esports Commands](commands/esports-commands/README.md)
+  * [/send axie](commands/esports-commands/send-axie.md)
 
 ## 😍 Loyalty Bonus
 

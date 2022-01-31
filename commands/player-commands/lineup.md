@@ -6,4 +6,4 @@ description: Shows your team from the game.
 
 By typing `/lineup` you can see axies you are playing with.
 
-![/lineupresponse](<../.gitbook/assets/image (7).png>)
+![/lineupresponse](<../../.gitbook/assets/image (7).png>)

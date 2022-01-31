@@ -14,6 +14,7 @@
   * [/swap axie](commands/player-commands/swap-axie.md)
 * [Esports Commands](commands/esports-commands/README.md)
   * [/send axie](commands/esports-commands/send-axie.md)
+  * [/breed](commands/esports-commands/breed.md)
 
 ## 😍 Loyalty Bonus
 

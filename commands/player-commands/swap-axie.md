@@ -9,4 +9,4 @@ You need to include your axie ID, desired axie ID and @tag scholar who has desir
 
 ![/swap axie created](<../../.gitbook/assets/image (1) (1).png>)
 
-![/swap axie completed](<../../.gitbook/assets/image (2).png>)
+![/swap axie completed](<../../.gitbook/assets/image (2) (1).png>)

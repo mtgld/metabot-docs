@@ -4,6 +4,7 @@
 
 ## 🗣 Commands
 
+* [/aavegotchi](commands/aavegotchi.md)
 * [/scholarship application](commands/scholarship-application.md)
 * [Player Commands](commands/player-commands/README.md)
   * [/status](commands/player-commands/status.md)

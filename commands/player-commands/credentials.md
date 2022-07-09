@@ -1,5 +1,5 @@
 ---
-description: Your login and password for axie account.
+description: Your login and password for an axie account.
 ---
 
 # /credentials
